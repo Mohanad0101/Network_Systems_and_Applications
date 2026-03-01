@@ -1,4 +1,4 @@
-# Lab 1 — Primitive File Manager (CLI + JSON config + sandbox)
+# Lab 1: Primitive File Manager (CLI + JSON config + sandbox)
 
 ## What you build
 A minimal file manager that works **only inside a configured workspace folder** and blocks escaping outside it.
