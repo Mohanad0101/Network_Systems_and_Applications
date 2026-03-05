@@ -25,4 +25,5 @@ def main() -> None:
 if __name__ == "__main__":
     print("i made this change")
     print("2 i made this change")
+    print("3 i made this change")
     main()
